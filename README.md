@@ -14,4 +14,4 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Tableau • Logistic 
 ### Files / Links
 - [Python Script](loan_approval_analysis.py)  
 - [Presentation PDF](loan_approval_analysis_presentation.pdf)  
-- [Tableau Visualizations](loan_approval_analysis_dashboard.twb)
+- [Tableau Visualizations](loan_approval_analysis_dashboard.twbx)
