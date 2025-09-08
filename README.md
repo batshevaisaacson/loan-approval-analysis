@@ -12,6 +12,6 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Tableau • Logistic 
 - Logistic regression model achieves **91% accuracy** in predicting approvals  
 
 ### Files / Links
-- [Python Script](link)  
-- [Presentation PDF](link)  
-- [Tableau Visualizations](link)
+- [Python Script](loan_approval_analysis.py)  
+- [Presentation PDF](loan_approval_analysis_presentation.pdf)  
+- [Tableau Visualizations](loan_approval_analysis_dashboard.twb)
